@@ -11,4 +11,3 @@ INSERT INTO Trips (RoomId	,BookDate,	ArrivalDate	,ReturnDate	,CancelDate) VALUES
 (103	,'2013-07-17'	,'2013-07-23',	'2013-07-24',	NULL			)	  ,
 (104	,'2012-03-17'	,'2012-03-31'	,'2012-04-01',	'2012-01-10	'	)	  ,
 (109	,'2017-08-07	','2017-08-28',	'2017-08-29',	NULL			)
-

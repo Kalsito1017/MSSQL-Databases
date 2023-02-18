@@ -48,5 +48,4 @@ CREATE TABLE AccountsTrips
 	TripId INT  NOT NULL REFERENCES Trips(Id),
 	Luggage INT NOT NULL 
 	CHECK(Luggage >= 0)
-
 )
